@@ -1,0 +1,59 @@
+body {
+    background: #2d3041;
+}
+
+.container {
+    padding: 10rem 22rem;
+}
+
+img {
+    padding: 3rem;
+}
+
+label {
+    font-size: 18px;
+    color: #fff;
+}
+
+input {
+    padding: 22px !important;
+}
+
+.pass {
+    justify-content: space-between;
+    display: flex;
+}
+
+.pass a {
+    color: #35b562;
+}
+
+.password-show {
+    position: relative;
+}
+
+.password-show .password-icon-eye-opend {
+    background-image: url(./img/eye-open.svg);
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 16px;
+    right: 9px;
+    cursor: pointer;
+}
+
+.password-show .password-icon-eye-close {
+    background-image: url(./img/eye-close.svg);
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 16px;
+    right: 9px;
+    cursor: pointer;
+}
+
+button.btn.btn-success.form-control {
+    background: #30a85d;
+}
