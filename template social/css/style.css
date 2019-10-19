@@ -2400,7 +2400,7 @@ select {
 	color: #ffffff;
 	opacity: 0;
 	visibility: hidden;
-	background-color: #e44d3a;
+	background-color: #51a5fb;
 	position: absolute;
 	font-family: fontawesome;
 	top: 49%;
@@ -2569,7 +2569,7 @@ footer {
 	color: #b2b2b2;
 }
 .footy-sec.mn ul li a:hover{
-	color: #e44d3a;
+	color: #51a5fb;
 }
 .footy-sec.mn ul li {
 	border-color: #b2b2b2;
@@ -3812,11 +3812,11 @@ a:hover {
 	margin-bottom: 12px !important;
 }
 .filter--tt2 .dropdown .dropdown-menu a:hover {
-    color: #e44d3a !important;
+    color: #51a5fb !important;
 	background: none !important;
 }
 .filter--tt2 .dropdown .dropdown-menu a:focus {
-    color: #e44d3a !important;
+    color: #51a5fb !important;
 	background: none !important;
 }
 .filter--tt2  a {
@@ -4434,7 +4434,7 @@ a:hover {
 }
 .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
 	background-color: inherit;
-	color: #e44d3a;
+	color: #51a5fb;
 	border-color: inherit;
 }
 
@@ -4520,7 +4520,7 @@ a:hover {
 	cursor: pointer;
 }
 .save-stngs ul li button:hover {
-	background-color: #e44d3a;
+	background-color: #51a5fb;
 	color: #fff;
 	border-color: transparent;
 }
@@ -4722,7 +4722,7 @@ a:hover {
 	padding-left: 10px;
 }
 .bx-info h3 {
-	color: #e44d3a;
+	color: #51a5fb;
 	font-size: 20px;
 	font-weight: 600;
 	margin-bottom: 5px;
@@ -5937,7 +5937,7 @@ a:hover {
     border-top-right-radius: 3px;
 }
 .topsearch i{
-	color: #e44d3a;
+	color: #51a5fb;
 }
 .dropdown-toggle::after {
    position: absolute;
@@ -5994,7 +5994,7 @@ a:hover {
 	font-weight: 600;
 }
 .helpforum a{
-	background-color: #e44d3a;
+	background-color: #51a5fb;
 	color: #fff;
 	padding: 10px 15px 10px 15px;
     line-height: 4;
@@ -6015,7 +6015,7 @@ a:hover {
 .actionstext a{
 	font-size: 16px;
 	font-weight: 500;
-	color: #e44d3a;
+	color: #51a5fb;
 	line-height: 2;
 	display: block;
 }
@@ -6026,11 +6026,11 @@ a:hover {
 .helpform h3{
 	font-size: 18px;
 	font-weight: 400;
-	color: #e44d3a;
+	color: #51a5fb;
 	margin-bottom: 10px;
 }
 .helpform a {
-    background-color: #e44d3a;
+    background-color: #51a5fb;
     color: #fff;
     padding: 10px 15px 10px 15px;
 	border-radius: 3px;
@@ -6046,7 +6046,7 @@ a:hover {
 	color: #000;
 }
 .bookingsideber h3:active{
-	color: #e44d3a;
+	color: #51a5fb;
 }
 .helpforum h4{
 	font-size: 16px;
@@ -6081,7 +6081,7 @@ a:hover {
 	padding-top: 20px;
 }
 .btns a:hover {
-	background-color: #e44d3a;
+	background-color: #51a5fb;
 	color: #fff;
 }
 .privacy h3 {
@@ -6100,7 +6100,7 @@ a:hover {
 }
 .privacy i{
 	float: right;
-	color: #e44d3a;
+	color: #51a5fb;
 	font-size: 20px;
 	font-weight: 600;
 }
@@ -6134,7 +6134,7 @@ a:hover {
 }
 .privabtns a:hover{
     color: #fff;
-    background-color: #e44d3a;
+    background-color: #51a5fb;
 }
 .privac{
 	background-color: #fff;
@@ -6802,8 +6802,8 @@ ul#myTab {
 }
 .custom-control-input:checked~.custom-control-label::before {
     color: #fff;
-    border-color: #e44d3a;
-    background-color: #e44d3a;
+    border-color: #51a5fb;
+    background-color: #51a5fb;
 	box-shadow:none;
 	outline:none;
 }
