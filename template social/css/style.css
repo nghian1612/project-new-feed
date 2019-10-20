@@ -538,8 +538,6 @@ nav > ul > li > a:hover {
 .user-account {
 	float: right;
 	width: 110px;
-	border-left: 1px solid #ffffff;
-	border-right: 1px solid #fdfdfd;
 	box-sizing: border-box;
 	position: relative;
 }
@@ -941,7 +939,7 @@ main {
 	font-weight: 500;
 }
 .tags-sec ul li a:hover {
-	color: #e44d3a;
+	color: #51a5fb 	;
 }
 .cp-sec {
 	float: left;
@@ -1119,7 +1117,7 @@ main {
 	font-weight: 600;
 }
 .ed-opts > a:hover {
-	color: #e44d3a;
+	color: #51a5fb;
 }
 .usy-name {
 	float: left;
@@ -2649,7 +2647,7 @@ footer {
 .add-dp i:hover {
 	font-size: 14px;
 	border: 2px solid #fff;
-    background: #e44d3a;
+    background: #51a5fb;
 	padding: 11px;
 }
 .add-dp {
